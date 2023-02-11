@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm salman</h1>
 <h3 align="center">Software Engineer</h3>
 
+<img src="https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Flearnwithshikha.com%2Fwp-content%2Fuploads%2F2021%2F01%2Fweb-deve.png" >
+
 - 🔭 I’m currently working on [Hotel Management](https://github.com/MohammedSalman2001/HotemManagamentSystem)
 
 - 🌱 I’m currently learning **Internet Technologies**
