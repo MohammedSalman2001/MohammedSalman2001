@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Hotel Management](https://github.com/MohammedSalman2001/HotemManagamentSystem)
 
-- 🌱 I’m currently learning **Internet Technologies**
+- 🌱 I’m currently learning **Spring boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MohammedSalman2001/MyProfile](https://github.com/MohammedSalman2001/MyProfile)
 
